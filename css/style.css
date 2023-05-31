@@ -14,9 +14,16 @@
 @import './home/parceiros.css';
 @import './home/depoimento.css';
 
+
+/* paginas internas */
+
+@import './termos/termos.css';
+
 /* seguros */
 
 @import '/css/seguros/seguros.css';
+
+
 
 
 /* Bicicletas */
